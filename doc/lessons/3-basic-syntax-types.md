@@ -19,7 +19,7 @@ def sum(value: Int): Int = {
 }
 ```
 
-Now we can declare this function inline!
+Now we can declare this function inºline!
 
 ```scala
 def sum(value: Int): Int = value + 1
