@@ -35,3 +35,4 @@ class MessageAnalyticsService {
     usernameMessagesMap
   }
 }
+NetworkOnMainThreadException
